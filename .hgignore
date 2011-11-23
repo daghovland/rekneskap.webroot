@@ -4,3 +4,4 @@ syntax:glob
 .*.swo
 .svn
 index.php
+test.php
