@@ -155,6 +155,9 @@ table tr td {
 table tr.altrow td {
 	background: #f4f4f4;
 }
+table tr.markrow td {
+	background: #00FF00;
+}
 td.actions {
 	text-align: center;
 	white-space: nowrap;
